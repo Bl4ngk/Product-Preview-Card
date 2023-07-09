@@ -47,6 +47,7 @@ img{
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 600px;
+    margin-bottom: 1rem;
 }
 
 .text--content{
@@ -133,8 +134,7 @@ img{
     }
 
     .container{
-        display: flex; 
-        margin-bottom: 1rem;
+        display: flex;
     }
     
     .left,
